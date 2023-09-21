@@ -1,4 +1,4 @@
-# Service Bus Producer/Consumer demo
+# Service Bus Queue producer/consumer demo
 
 ## Azure Service Bus
 
